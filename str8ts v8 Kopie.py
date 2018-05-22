@@ -9,7 +9,7 @@
     # und schaue ob lösbar und fehlerfrei.
     # Wenn mit Fehler, dann Vermutung falsch, also andere Possibility richtig.
     # Wenn nicht lösbar, versuche mit 2. Possibility oder anderen Tupel
-# V8: guess3 Algorithmus, wenn auch guess2 keine Lösung bringt
+# V8: guess3 Algorithmus, wenn auch guess2 keine Lösung bringt 
 
 from PIL import Image, ImageDraw, ImageFont
 import re, copy, inspect, os
